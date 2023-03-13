@@ -10,16 +10,8 @@ margin-top: 50px;
 padding-right: 70px;
 padding-bottom: 40px;
 }
-.icons{
-  
-    background-color: #4db5f9;
-    margin-bottom: 100px;
-}
-.creat .border{
-    background-color: bisque;
 
 
-}
 .cont2 .border{
     height: 900px;
     width:500px ;
@@ -31,7 +23,8 @@ padding-bottom: 40px;
     text-align: center;
     text-decoration: none;
     width: min-content;
-    margin-left: 120px;
+    margin-left: 75px;
+    
     
 
 }
@@ -43,4 +36,22 @@ padding-bottom: 40px;
     background-color: #fafafa;
     border-radius: 3px;
     width: 300px;
+}
+.right-column{
+    border: 1px solid #e6e6e6;
+    width: 450px;
+    margin: 10px;
+    padding-bottom: 20px;
+    
+}
+.creat{
+    margin-bottom: 30px;
+    border: 1px solid #e6e6e6;
+    height: 50px;
+    padding-top: 10px;
+    margin:5px;
+    margin-right: 50px;
+}
+.footer{
+    padding-top: 80px;
 }
